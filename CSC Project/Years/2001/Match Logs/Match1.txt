@@ -1,0 +1,8 @@
+Ravenclaw vs Slytherin
+
+House--> r
+Goal/Snitch--> snitch
+Ravenclaw has caught the snitch ! Ravenclaw wins !
+Total Points scored by Ravenclaw : 150
+Total Points scored by Slytherin : 0
+MATCH 1 HAS ENDED

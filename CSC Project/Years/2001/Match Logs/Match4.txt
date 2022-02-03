@@ -1,0 +1,8 @@
+Hufflepuff vs Ravenclaw
+
+House--> h
+Goal/Snitch--> snitch
+Hufflepuff has caught the snitch ! Hufflepuff wins !
+Total Points scored by Hufflepuff : 150
+Total Points scored by Ravenclaw : 0
+MATCH 4 HAS ENDED

@@ -1,0 +1,8 @@
+Gryffindor vs Hufflepuff
+
+House--> g
+Goal/Snitch--> snitch
+Gryffindor has caught the snitch ! Gryffindor wins !
+Total Points scored by Gryffindor : 150
+Total Points scored by Hufflepuff : 0
+MATCH 3 HAS ENDED

@@ -1,0 +1,20 @@
+Gryffindor vs Slytherin
+
+House--> g
+Goal/Snitch--> goal
+Gryffindor has scored a goal ! Ten points to Gryffindor !
+Scores | Gryffindor : 10 , Slytherin : 0
+House--> g
+Goal/Snitch--> goal
+Gryffindor has scored a goal ! Ten points to Gryffindor !
+Scores | Gryffindor : 20 , Slytherin : 0
+House--> s
+Goal/Snitch--> goal
+Slytherin has scored a goal ! Ten points to Slytherin !
+Scores | Gryffindor : 20 , Slytherin : 10
+House--> g
+Goal/Snitch--> snitch
+Gryffindor has caught the snitch ! Gryffindor wins !
+Total Points scored by Gryffindor : 170
+Total Points scored by Slytherin : 10
+MATCH 3 HAS ENDED

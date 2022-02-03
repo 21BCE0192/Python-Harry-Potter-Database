@@ -1,0 +1,24 @@
+Gryffindor vs Ravenclaw
+
+House--> r
+Goal/Snitch--> goal
+Ravenclaw has scored a goal ! Ten points to Ravenclaw !
+Scores | Gryffindor : 0 , Ravenclaw : 10
+House--> g
+Goal/Snitch--> goal
+Gryffindor has scored a goal ! Ten points to Gryffindor !
+Scores | Gryffindor : 10 , Ravenclaw : 10
+House--> g
+Goal/Snitch--> goal
+Gryffindor has scored a goal ! Ten points to Gryffindor !
+Scores | Gryffindor : 20 , Ravenclaw : 10
+House--> g
+Goal/Snitch--> goal
+Gryffindor has scored a goal ! Ten points to Gryffindor !
+Scores | Gryffindor : 30 , Ravenclaw : 10
+House--> r
+Goal/Snitch--> snitch
+Ravenclaw has caught the snitch ! Ravenclaw wins !
+Total Points scored by Gryffindor : 30
+Total Points scored by Ravenclaw : 160
+MATCH 4 HAS ENDED

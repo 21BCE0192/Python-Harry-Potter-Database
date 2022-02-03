@@ -1,0 +1,8 @@
+Gryffindor vs Slytherin
+
+House--> s
+Goal/Snitch--> snitch
+Slytherin has caught the snitch ! Slytherin wins !
+Total Points scored by Gryffindor : 0
+Total Points scored by Slytherin : 150
+MATCH 5 HAS ENDED

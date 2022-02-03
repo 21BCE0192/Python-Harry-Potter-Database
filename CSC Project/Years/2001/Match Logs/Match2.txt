@@ -1,0 +1,10 @@
+Gryffindor vs Ravenclaw
+
+House--> goal
+Invalid Input. . .
+House--> g
+Goal/Snitch--> snitch
+Gryffindor has caught the snitch ! Gryffindor wins !
+Total Points scored by Gryffindor : 150
+Total Points scored by Ravenclaw : 0
+MATCH 2 HAS ENDED

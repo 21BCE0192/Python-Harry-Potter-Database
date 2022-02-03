@@ -1,0 +1,14 @@
+Hufflepuff vs Slytherin
+
+House--> s
+Goal/Snitch--> goal
+Slytherin has scored a goal ! Ten points to Slytherin !
+Scores | Hufflepuff : 0 , Slytherin : 10
+House--> s
+Goal/Snitch--> snitch'
+Invalid Input. . .
+Goal/Snitch--> snitch
+Slytherin has caught the snitch ! Slytherin wins !
+Total Points scored by Hufflepuff : 0
+Total Points scored by Slytherin : 160
+MATCH 6 HAS ENDED

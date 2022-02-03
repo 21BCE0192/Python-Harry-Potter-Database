@@ -1,0 +1,16 @@
+Hufflepuff vs Ravenclaw
+
+House--> h
+Goal/Snitch--> goal
+Hufflepuff has scored a goal ! Ten points to Hufflepuff !
+Scores | Hufflepuff : 10 , Ravenclaw : 0
+House--> r
+Goal/Snitch--> goal
+Ravenclaw has scored a goal ! Ten points to Ravenclaw !
+Scores | Hufflepuff : 10 , Ravenclaw : 10
+House--> r
+Goal/Snitch--> snitch
+Ravenclaw has caught the snitch ! Ravenclaw wins !
+Total Points scored by Hufflepuff : 10
+Total Points scored by Ravenclaw : 160
+MATCH 2 HAS ENDED
